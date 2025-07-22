@@ -2,6 +2,8 @@
 
 This project predicts machine failures from sensor data using machine learning models.
 
+**Live Demo:** https://machine-failure-prediction-leluke007.streamlit.app
+
 ## Features
 
 - Data processing and visualization (Jupyter Notebook)
